@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
+<div align="center">
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmedadil&label=Profile%20views&color=0e75b6&style=flat" alt="mohmedadil" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
