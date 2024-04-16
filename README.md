@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 <div align="center">
 <img align="right" height="200" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
