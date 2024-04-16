@@ -23,6 +23,6 @@
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmedadil&show_icons=true&locale=en&layout=compact" alt="mohmedadil" /></p>
 </div>
 
-<div style="text-align: center;">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmedadil" alt="mohmedadil" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohmedadil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
