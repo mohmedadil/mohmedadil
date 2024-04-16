@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmedadil&label=Profile%20views&color=0e75b6&style=flat" alt="mohmedadil" /> </p>
 
-- 🌱 I’m currently learning **Flutter , Dart**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mohmedadil?tab=repositories](https://github.com/mohmedadil?tab=repositories)
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Flutter**
 
