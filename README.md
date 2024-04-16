@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <div align="center">
-<img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+<img align="right" height="300" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmedadil&label=Profile%20views&color=0e75b6&style=flat" alt="mohmedadil" /> </p>
 
